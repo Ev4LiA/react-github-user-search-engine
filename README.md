@@ -1,3 +1,6 @@
+## Link to my project
+https://react-github-user-search-engine.netlify.app/
+
 ## Starter Project
 
 - css provided (global styles, styled components)
